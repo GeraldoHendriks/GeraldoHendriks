@@ -38,7 +38,7 @@ My name is Geraldo, i'm a 17 year old software developer from the Netherlands �
 **Github Activity ✔:**
 
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GeraldoHendriks&show_icons=true&theme=dracula&line_height=27" alt="Geraldo's github stats"/>
+<img href="https://github.com/GeraldoHendriks" align="center" src="https://github-readme-stats.vercel.app/api?username=GeraldoHendriks&show_icons=true&theme=dracula&line_height=27" alt="Geraldo's github stats"/>
 </a>
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/GeraldoHendriks?tab=repositories)!
