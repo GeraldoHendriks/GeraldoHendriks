@@ -11,9 +11,9 @@ My name is Geraldo, i'm a 17 year old software developer from the Netherlands �
 - And much more 😉
 
 **Current setup:**
- - Linux Mint 🐧
- - Qtile Window Manager 🪟
- - LightDM 🔐  
+ - Kubuntu 🐧
+ - KDE Plasma 🪟
+ - SDDM 🔐  
 
 
 <!-- Connections -->
