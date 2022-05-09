@@ -1,5 +1,5 @@
 # Hi there 👋 Welcome on my Github!
-My name is Geraldo, i'm a 17 year old software developer from the Netherlands 🇳🇱
+My name is Geraldo, i'm a 18 year old software developer from the Netherlands 🇳🇱
 
 **Some of my intrests are:**
 - Python ✅
