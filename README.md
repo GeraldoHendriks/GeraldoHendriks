@@ -12,8 +12,8 @@ My name is Geraldo, i'm a 18 year old software developer from the Netherlands �
 
 **Current setup:**
  - Fedora 36 🐧
- - Qtile 🪟
-<!-- - GDM 🔐 -->  
+ - KDE 🪟
+ - SDDM 🔐   
 
 
 <!-- Connections -->
