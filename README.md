@@ -11,7 +11,7 @@ My name is Geraldo, i'm a 19 year old software developer from the Netherlands �
 - And much more 😉
 
 **Current setup:**
- - Fedora 38 🐧
+ - Fedora 39 🐧
  - Gnome 🪟
  - GDM 🔐
 
