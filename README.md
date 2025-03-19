@@ -1,20 +1,14 @@
-# Hey there, I'm Geraldo Hendriks! 👋 🚀
+# oh hi there 👋
+it's me, geraldo
 
-I'm a passionate Mobile Developer who thrives in the world of Flutter, crafting smooth and performant apps that don’t just work, but shine. I’m all about clean code, innovative designs, and making sure users enjoy every tap and swipe.
+what's up?
 
-## 🛠️ Tech Arsenal
-### Languages:
-  - 💻 Dart (Flutter’s best friend)
-  - 🐧 Python (for some scripting fun!)
+- making flutter apps that don't crash (usually)
+- breaking configs (frequently)
+- fixing configs (occasionally)
 
-### Frameworks & Tools:
-  - 🐦 Flutter (my daily grind)
-  - 🐧 Linux (because open source rocks!)
-  - 🛠️ ADB, Git (development essentials)
+tech stuff i dig
+flutter & dart → because pretty UI makes the pain go away
+linux → because i enjoy trying to get Microsoft Teams to work
 
-## 🎯 What I’m Up To
-- Building sleek Flutter apps that push the boundaries of mobile experience 🚀
-- Exploring new tech and contributing to open-source 🔥
-
-## 💡 Fun Fact
-When I’m not coding, you’ll find me lost in the worlds of Linux tinkering and epic gaming adventures, or maybe diving into some storywriting to fuel my creative spark!
+oh and i write sometimes, fantasy stuff that i may someday put online.... or not, we'll see!
